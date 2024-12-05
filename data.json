@@ -1,0 +1,90 @@
+{
+ 
+  
+  "website": {
+      "nameJournal": "Le Monde des Carottes",
+      "phraseSlogan": "Tout sur les bienfaits, les variétés et les recettes de la carotte",
+      "texteCTA": "Abonnez-vous pour tout savoir sur la carotte et ses multiples usages",
+      "mainPrincipal": {
+        "titre": "Les bienfaits de la carotte pour votre santé",
+        "description": "Découvrez les propriétés nutritionnelles de la carotte et comment elle peut améliorer votre bien-être.",
+        "date": "1er Décembre 2024",
+        "theme": "Santé et nutrition",
+        "image": "images/image.png"
+      },
+
+      "articles": [
+        {
+          "titre": "Carottes bio : Pourquoi privilégier les variétés locales",
+          "date": "28 Novembre 2024",
+          "theme": "Agriculture durable",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "Comment cultiver des carottes dans votre jardin",
+          "date": "20 Novembre 2024",
+          "theme": "Jardinage",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "Les meilleures recettes à base de carottes pour l'hiver",
+          "date": "15 Novembre 2024",
+          "theme": "Cuisine",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "Les variétés de carottes à découvrir cette saison",
+          "date": "10 Novembre 2024",
+          "theme": "Cuisine",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "La carotte, un allié pour votre peau et vos yeux",
+          "date": "5 Novembre 2024",
+          "theme": "Santé et bien-être",
+          "image": "images/image.png"
+        }
+      ],
+      "themes":
+       [
+        {
+          "nom": "Santé et nutrition",
+          "description": "Les bienfaits de la carotte sur la santé, les vitamines et minéraux qu'elle apporte."
+        },
+        {
+          "nom": "Agriculture durable",
+          "description": "L'impact de la culture de la carotte sur l'environnement et l'agriculture responsable."
+        },
+        {
+          "nom": "Jardinage",
+          "description": "Des conseils pour cultiver vos propres carottes à la maison ou au jardin."
+        },
+        {
+          "nom": "Cuisine",
+          "description": "Des recettes variées mettant en valeur la carotte dans vos plats."
+        },
+        {
+          "nom": "Santé et bien-être",
+          "description": "Comment la carotte contribue à votre beauté, votre peau et votre santé générale."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Pierre",
+          "typeExperience": "Nutritionniste",
+          "presentation": "Je partage des conseils pour intégrer les légumes dans votre alimentation quotidienne pour une meilleure santé."
+        },
+        {
+          "prenom": "Julie",
+          "typeExperience": "Chef cuisinier",
+          "presentation": "Passionnée par les légumes de saison, je propose des recettes créatives à base de carottes."
+        },
+        {
+          "prenom": "Lucie",
+          "typeExperience": "Jardinier urbain",
+          "presentation": "J'aide les citadins à cultiver leurs propres légumes, y compris les carottes, dans des espaces réduits."
+        }
+      ]
+    }
+  }
+  

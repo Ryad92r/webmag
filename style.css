@@ -1,0 +1,110 @@
+/* Style global */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    padding: 10px 20px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  header .logo {
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  button.subscribe {
+    background: #8000ff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hero {
+    background: #8000ff;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .themes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .theme {
+    width: 20%;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .latest-article, .other-articles, .team {
+    margin-bottom: 40px;
+  }
+  
+  .latest-article button, .read-more {
+    background: #8000ff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .other-articles .articles {
+    display: flex;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .article, .member {
+    text-align: center;
+  }
+  
+  .image-placeholder, .avatar {
+    background: #ddd;
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+  }
+  
+  footer {
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
